@@ -1,0 +1,11 @@
+/* Do everything in this file */
+h2 {
+    border-bottom: 1px solid red;
+}
+
+figure {
+    float: right;
+    margin-right: 10px;
+    width: 40%;
+
+}

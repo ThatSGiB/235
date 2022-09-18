@@ -1,0 +1,31 @@
+img {
+    width: 250px;
+}
+body {
+    background-color: #323031;
+    color: #FFEAEE;
+}
+div {
+  border: 15px solid #A21E01;
+  padding: 40px;
+  margin: 5px;
+}
+h1 {
+    color: #FFC857;
+    border-bottom: 1px solid #A21E01;
+}
+a:active {
+    color: #2beaff;
+}
+a:focus {
+    color: #8bbcc2;
+}
+a:hover {
+    color: #00bed3;
+}
+a:link {
+    color: #177E89;
+}
+a:visited {
+    color: #105c64;
+}

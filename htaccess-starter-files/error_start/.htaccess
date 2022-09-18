@@ -1,0 +1,4 @@
+ErrorDocument 404 /sgb7378/235/error/error.html
+DirectoryIndex noterror.html
+
+
